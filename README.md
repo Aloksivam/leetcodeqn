@@ -1,0 +1,2 @@
+# leetcodeqn
+dsa qn tried
